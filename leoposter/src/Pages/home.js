@@ -4,7 +4,12 @@ import styled from "styled-components";
 
 class Home extends Component{
     render(){
-        return <h1>hello world2</h1>
+        return(
+            <>
+             <h1>hello world2</h1>
+            </>
+           
+        )
     }
 }
 
