@@ -1,7 +1,7 @@
 import React from "react";
 import {BrowserRouter as Router,Switch,Route,Redirect} from "react-router-dom";
 import Home from "../Pages/home";
-import Login from "../Pages/login";
+import Login from "../Pages/login/loginUI";
 import Signup from "../Pages/singup";
 import Header from "./header";
 
