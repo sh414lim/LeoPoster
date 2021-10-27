@@ -7,7 +7,7 @@ class Login extends Component{
     render(){
         return(
             <div>
-                <h1>안녕</h1>
+                <h1>안녕 로그인</h1>
             </div>
         )
     }
