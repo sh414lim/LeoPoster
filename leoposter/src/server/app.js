@@ -8,7 +8,7 @@ const dotenv = require('dotenv');
 const passport = require('passport');
 
 dotenv.confing();
-const loginPage=require('../Pages/login')
+const loginPage=require('../Pages/login/loginUI')
 
 
 const app = express();
